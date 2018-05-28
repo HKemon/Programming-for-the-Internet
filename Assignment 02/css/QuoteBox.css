@@ -1,0 +1,14 @@
+:root {
+    --footer-background-color: #ff4545;
+    --footer-border-color: #79ff79;
+}
+
+#QuoteGeneratorBackground{
+    background-color: var(--footer-background-color);
+    width: 300px;
+    border: 5px solid var(--footer-border-color);
+    padding: 10px;
+    text-align: center;
+    position : absolute;
+    left : 33%;
+}
